@@ -1,0 +1,13 @@
+# Safety net against accidentally adding sensitive files later
+*.pem
+*.key
+*_rsa
+*_rsa.pub
+id_ed25519*
+id_ecdsa*
+*.env
+.env.*
+*token*
+*secret*
+*credential*
+*.bak

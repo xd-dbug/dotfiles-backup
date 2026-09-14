@@ -1,0 +1,9 @@
+background-opacity = 0.6
+window-decoration = true
+window-theme = ghostty
+window-titlebar-background = #2c2c35
+window-titlebar-foreground = #ba5366
+shell-integration = zsh
+shell-integration-features = true
+font-family = Hack Nerd Font Regular
+font-size = 13
